@@ -1,2 +1,4 @@
 # SG_SQLProject
-SQL project for Sparta Global
+Week 2 SQL project for Sparta Global
+
+Covering basic SQL functions
